@@ -1,0 +1,8 @@
+Jugador 1: Tierra
+Jugador 2: Fuego
+Ganador: Jugador 1
+----------------------
+Jugador 1: Fuego
+Jugador 2: Tierra
+Ganador: Jugador 2
+----------------------
